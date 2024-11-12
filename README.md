@@ -1,7 +1,3 @@
----
-title: Population Simulator Sandbox
-description: An Interactive Tool for GHP220 Course - Introduction to Demography
----
 
 # Population Simulator Sandbox
 
